@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteLayout android:id="@+id/AbsoluteLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:clickable="false" android:background="#255344"><EditText android:layout_height="wrap_content" android:id="@+id/EditText01" android:layout_width="wrap_content" android:width="30pt" android:layout_x="130dip" android:layout_y="45dip"></EditText>
+<EditText android:layout_height="wrap_content" android:id="@+id/EditText02" android:layout_width="wrap_content" android:width="30pt" android:layout_x="130dip" android:layout_y="95dip"></EditText>
+<Button android:id="@+id/Button01" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="OK" android:layout_x="130dip" android:layout_y="145dip" android:width="30pt"></Button>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView01" android:layout_width="wrap_content" android:textSize="10pt" android:width="40pt" android:background="#00ff00" android:textColor="#FF0000" android:layout_x="50dip" android:layout_y="200dip"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView02" android:layout_width="wrap_content" android:textSize="10pt" android:width="40pt" android:background="#00ff00" android:textColor="#FF0000" android:layout_y="200dip" android:layout_x="180dip"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView03" android:layout_width="wrap_content" android:text="High :" android:textSize="10pt" android:layout_x="55dip" android:layout_y="50dip"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView04" android:layout_width="wrap_content" android:text="Weigh :" android:textSize="10pt" android:layout_x="40dip" android:layout_y="100dip"></TextView>
+<Button android:layout_width="wrap_content" android:id="@+id/Button02" android:layout_height="wrap_content" android:layout_x="130dip" android:layout_y="240dip" android:text="Clear" android:width="30pt"></Button>
+</AbsoluteLayout>
